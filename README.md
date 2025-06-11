@@ -28,3 +28,6 @@ As the hider, your goal is to hide in the map and not get caught.
 ## Seeker:
 
 As the seeker, your goal is to catch all the Hiders by lighting them on fire, and have them join your team.
+
+# To Get Back To The Main Page:
+https://github.com/Coolpenguin3745/Minecraft-Gamemodes-Maps-and-Game-Information
